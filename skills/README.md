@@ -19,7 +19,6 @@ Anthropic 官方 skills。
 - **[claude-api](./anthropic/claude-api/SKILL.md)** — Claude API / Anthropic SDK 参考：模型 ID、定价、参数、流式、工具调用、MCP、Agent、缓存、Token 计数、模型迁移。
 - **[doc-coauthoring](./anthropic/doc-coauthoring/SKILL.md)** — 结构化文档协作编写流程：高效传递上下文、迭代精炼内容、验证文档对读者的可用性。
 - **[docx](./anthropic/docx/SKILL.md)** — Word 文档全生命周期处理：创建、读取、编辑、格式化 .docx，支持目录、页眉、页码、信头、修订标记和注释。
-- **[find-skills](./anthropic/find-skills/SKILL.md)** — 帮助用户发现和安装 Agent Skill，回答"有没有能做 X 的 skill"类问题。
 - **[frontend-design](./anthropic/frontend-design/SKILL.md)** — 构建或重塑 UI 时的独特视觉设计指导：美学方向、字体排版，避免模板化默认设计。
 - **[hello-world](./anthropic/hello-world/SKILL.md)** — 当用户输入 hello-world 时，直接输出 hello world!
 - **[internal-comms](./anthropic/internal-comms/SKILL.md)** — 内部沟通文档写作工具包：状态报告、领导层更新、公司新闻简报、FAQ、事故报告、项目更新等。
@@ -60,6 +59,7 @@ Anthropic 官方 skills。
 - **[llm-wiki](./productivity/llm-wiki/SKILL.md)** — 用 LLM 构建和维护个人知识库 Wiki。支持资料导入、智能查询、健康检查，以 Markdown 文件 + Git 版本管理。
 - **[teach](./productivity/teach/SKILL.md)** — 多阶段教学：以当前目录为状态化教学空间，分多次会话教授新技能或概念。
 - **[write-a-skill](./productivity/write-a-skill/SKILL.md)** — 创建结构规范、遵循渐进披露原则并附带资源的 Skill。
+- **[find-skills](./productivity/find-skills/SKILL.md)** — 帮助用户发现和安装 Agent Skill，回答"有没有能做 X 的 skill"类问题。
 - **[fund-advisor](./productivity/fund-advisor/SKILL.md)** — 基金定投顾问：定投计算（复利+真实年化）、收益模拟、资产配置、再平衡建议、止盈策略、基金类型科普。
 
 ### Misc
