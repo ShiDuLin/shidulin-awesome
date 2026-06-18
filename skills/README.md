@@ -20,7 +20,7 @@ Anthropic 官方 skills。
 - **[doc-coauthoring](./anthropic/doc-coauthoring/SKILL.md)** — 结构化文档协作编写流程：高效传递上下文、迭代精炼内容、验证文档对读者的可用性。
 - **[docx](./anthropic/docx/SKILL.md)** — Word 文档全生命周期处理：创建、读取、编辑、格式化 .docx，支持目录、页眉、页码、信头、修订标记和注释。
 - **[frontend-design](./anthropic/frontend-design/SKILL.md)** — 构建或重塑 UI 时的独特视觉设计指导：美学方向、字体排版，避免模板化默认设计。
-- **[hello-world](./anthropic/hello-world/SKILL.md)** — 当用户输入 hello-world 时，直接输出 hello world!
+- **[hello-world](./productivity/hello-world/SKILL.md)** — 当用户输入 hello-world 时，直接输出 hello world!
 - **[internal-comms](./anthropic/internal-comms/SKILL.md)** — 内部沟通文档写作工具包：状态报告、领导层更新、公司新闻简报、FAQ、事故报告、项目更新等。
 - **[mcp-builder](./anthropic/mcp-builder/SKILL.md)** — MCP 服务器构建指南：为 LLM 集成外部 API 和服务创建高质量的工具，支持 Python (FastMCP) 和 Node/TypeScript (MCP SDK)。
 - **[pdf](./anthropic/pdf/SKILL.md)** — PDF 全功能处理：读取/提取文字表格、合并、拆分、旋转、水印、创建、填表、加密/解密、扫描件 OCR。

@@ -2,6 +2,7 @@
 
 General workflow tools, not code-specific.
 
+- **[hello-world](./hello-world/SKILL.md)** — Simple hello-world demo skill.
 - **[caveman](./caveman/SKILL.md)** — Ultra-compressed communication mode. Cuts token usage ~75% by dropping filler while keeping full technical accuracy.
 - **[caveman-zh](./caveman-zh/SKILL.md)** — 中文极致压缩模式。砍掉客套话、填充词、冗余修饰，节省约 60-70% token，保留全部技术准确性。
 - **[grill-me](./grill-me/SKILL.md)** — Get relentlessly interviewed about a plan or design until every branch of the decision tree is resolved.
