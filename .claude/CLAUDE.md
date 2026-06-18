@@ -2,34 +2,18 @@
 
 个人日常收集的实用资源合集。
 
-## Skills
+## 收录规则
 
-Skills 按照文件夹归类在 `skills/` 目录下：
+当用户说"收录"、"新增"、"添加"内容时，按以下流程操作：
 
-- `anthropic/` —— Anthropic 官方 skills
+1. **发现模块** — 遍历仓库根目录下所有包含 `CLAUDE.md` 的一级子目录，每个即一个模块
+2. **匹配归属** — 读取各模块 `CLAUDE.md` 中的用途描述，判断新内容最适合放入哪个模块。**一对一归属**，一个内容只放一个模块
+3. **歧义处理** — 如果归属不明确，列出候选模块请皇上选择，不可自行决定
+4. **执行收录** — 按目标模块 `CLAUDE.md` 中声明的格式和写入目标执行，自动更新所有相关 `README.md` 索引
+5. **验证** — 收录完成后确认链接可达
 
-- `engineering/` —— 日常代码工作
+## 模块索引
 
-- `productivity/` —— 日常非代码工作流程工具
-
-- `misc/` —— 保留但很少使用
-
-- `personal/` —— 与个人环境相关，不予推广
-
-- `in-progress/` —— 尚未就绪的草稿
-
-- `deprecated/` —— 不再使用
-
-`anthropic/`、`engineering/`、`productivity/` 或 `misc/` 中的每个 skill 都必须在顶层 `README.md` 中有引用。`personal/`、`in-progress/` 和 `deprecated/` 中的 skill 不得出现。
-
-顶层 `README.md` 中的每个 skill 条目必须将 skill 名称链接到其 `SKILL.md`。
-
-每个 bucket 文件夹下都有一个 `README.md`，列出该 bucket 中的所有 skill，并附上一行描述，其中 skill 名称链接到其 `SKILL.md`。
-
-## Tools
-
-工具推荐放在 `tools/` 目录下，每种工具一个 Markdown 文件，在 `tools/README.md` 中统一索引。
-
-## Websites
-
-网站收藏放在 `websites/` 目录下，按类别整理，在 `websites/README.md` 中统一索引。
+- [Skills](skills/README.md) — AI Agent Skills
+- [Tools](tools/README.md) — 工具推荐
+- [Websites](websites/README.md) — 网站收藏
