@@ -1,4 +1,14 @@
-## Anthropic
+# shidulin-awesome
+
+个人日常收集的实用资源合集，包含自己编写和从社区精选的内容，仅供学习与使用便利，非抄袭。
+
+---
+
+## Skills
+
+AI Agent Skills 收藏，按类别整理在 `skills/` 目录下。
+
+### Anthropic
 
 Anthropic 官方 skills。
 
@@ -25,7 +35,7 @@ Anthropic 官方 skills。
 - **[webapp-testing](./skills/anthropic/webapp-testing/SKILL.md)** — 使用 Playwright 与本地 Web 应用交互测试：验证前端功能、调试 UI 行为、浏览器截图、查看日志。
 - **[xlsx](./skills/anthropic/xlsx/SKILL.md)** — 电子表格全生命周期处理：.xlsx/.xlsm/.csv/.tsv 的创建、读取、编辑、格式化、图表、数据清理与格式转换。
 
-## Engineering
+### Engineering
 
 日常代码工作。
 
@@ -40,7 +50,7 @@ Anthropic 官方 skills。
 - **[triage](./skills/engineering/triage/SKILL.md)** — 通过状态机驱动的分类角色对 Issue 进行分类处理。
 - **[zoom-out](./skills/engineering/zoom-out/SKILL.md)** — 让 Agent 跳出细节，对不熟悉的代码段给出更宏观的上下文或高层次视角。
 
-## Productivity
+### Productivity
 
 日常非代码工作流程工具。
 
@@ -48,10 +58,11 @@ Anthropic 官方 skills。
 - **[caveman-zh](./skills/productivity/caveman-zh/SKILL.md)** — 中文极致压缩模式。砍掉客套话、填充词、冗余修饰，节省约 60-70% token，保留全部技术准确性。
 - **[grill-me](./skills/productivity/grill-me/SKILL.md)** — 对方案或设计进行无死角质询，直到决策树的每个分支都被解决。
 - **[handoff](./skills/productivity/handoff/SKILL.md)** — 将当前会话压缩为交接文档，让另一个 Agent 可以接续工作。
+- **[llm-wiki](./skills/productivity/llm-wiki/SKILL.md)** — 用 LLM 构建和维护个人知识库 Wiki。支持资料导入、智能查询、健康检查，以 Markdown 文件 + Git 版本管理。
 - **[teach](./skills/productivity/teach/SKILL.md)** — 多阶段教学：以当前目录为状态化教学空间，分多次会话教授新技能或概念。
 - **[write-a-skill](./skills/productivity/write-a-skill/SKILL.md)** — 创建结构规范、遵循渐进披露原则并附带资源的 Skill。
 
-## Misc
+### Misc
 
 保留但很少使用。
 
@@ -62,7 +73,17 @@ Anthropic 官方 skills。
 
 ---
 
-本仓库为个人日常收集的实用 skills 合集，包含自己编写和从社区精选的 skills，仅供学习与使用便利，非抄袭。
+## Tools
+
+好用的工具推荐，详见 [tools/](./tools/)。
+
+---
+
+## Websites
+
+优质网站收藏，详见 [websites/](./websites/)。
+
+---
 
 来源包括但不限于：
 - [mattpocock/skills](https://github.com/mattpocock/skills)
