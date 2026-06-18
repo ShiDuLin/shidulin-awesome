@@ -64,6 +64,7 @@
 - [Investing.com](财经投资/investing.md) — 全球财经投资门户
 - [TradingView](财经投资/tradingview.md) — 专业图表分析与行情平台
 - [同花顺](财经投资/10jqka.md) — 国内股票行情与投资平台
+- [韭圈儿](财经投资/leekfund.md) — 基金投资数据工具
 
 ### 社区/论坛
 
