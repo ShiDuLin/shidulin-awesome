@@ -7,3 +7,4 @@
 - [Skills](skills/README.md) — AI Agent Skills 收藏
 - [Tools](tools/README.md) — 工具推荐
 - [Websites](websites/README.md) — 网站收藏
+- [Tutorials](tutorials/README.md) — 技术教程
