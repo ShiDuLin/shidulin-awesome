@@ -10,9 +10,11 @@ Skills 按照文件夹归类在 `skills/` 目录下：
 
 - `in-progress/` —— 尚未就绪的草稿
 
+- `anthropic/` —— Anthropic 官方 skills
+
 - `deprecated/` —— 不再使用
 
-`engineering/`、`productivity/` 或 `misc/` 中的每个 skill 都必须在顶层 `README.md` 中有引用，并在 `.claude-plugin/plugin.json` 中有条目。`personal/`、`in-progress/` 和 `deprecated/` 中的 skill 不得出现在上述任一文件中。
+`anthropic/`、`engineering/`、`productivity/` 或 `misc/` 中的每个 skill 都必须在顶层 `README.md` 中有引用，并在 `.claude-plugin/plugin.json` 中有条目。`personal/`、`in-progress/` 和 `deprecated/` 中的 skill 不得出现在上述任一文件中。
 
 顶层 `README.md` 中的每个 skill 条目必须将 skill 名称链接到其 `SKILL.md`。
 
