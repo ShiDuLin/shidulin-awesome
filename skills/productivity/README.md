@@ -8,3 +8,5 @@ General workflow tools, not code-specific.
 - **[handoff](./handoff/SKILL.md)** — Compact the current conversation into a handoff document so another agent can continue the work.
 - **[teach](./teach/SKILL.md)** — Teach the user a new skill or concept over multiple sessions, using the current directory as a stateful teaching workspace.
 - **[write-a-skill](./write-a-skill/SKILL.md)** — Create new skills with proper structure, progressive disclosure, and bundled resources.
+- **[fund-advisor](./fund-advisor/SKILL.md)** — 基金定投顾问：定投计算、收益模拟、资产配置、再平衡建议、止盈策略。
+- **[llm-wiki](./llm-wiki/SKILL.md)** — 用 LLM 构建和维护个人知识库 Wiki，支持资料导入、智能查询、健康检查。
