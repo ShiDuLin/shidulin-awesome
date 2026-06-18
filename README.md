@@ -45,7 +45,6 @@ Anthropic 官方 skills。
 日常非代码工作流程工具。
 
 - **[caveman](./skills/productivity/caveman/SKILL.md)** — 极致压缩沟通模式。砍掉填充词，节省约 75% token，保持完整技术准确性。
-- **[llm-wiki](./skills/productivity/llm-wiki/SKILL.md)** — 用 LLM 构建和维护个人知识库 Wiki。支持资料导入、智能查询、健康检查，以 Markdown 文件 + Git 版本管理。
 - **[caveman-zh](./skills/productivity/caveman-zh/SKILL.md)** — 中文极致压缩模式。砍掉客套话、填充词、冗余修饰，节省约 60-70% token，保留全部技术准确性。
 - **[grill-me](./skills/productivity/grill-me/SKILL.md)** — 对方案或设计进行无死角质询，直到决策树的每个分支都被解决。
 - **[handoff](./skills/productivity/handoff/SKILL.md)** — 将当前会话压缩为交接文档，让另一个 Agent 可以接续工作。
